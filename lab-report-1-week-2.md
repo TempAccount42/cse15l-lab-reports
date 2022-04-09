@@ -44,6 +44,7 @@
 # Optimize Remote Running
 - Once you have this down, try using the commands you got in "Try some Commands" to speed up your progress.
 - See if you can optimize the keystrokes to make it as simple as possible.
+- The example above should be the most optimal.
 
 ![Keystrokes](keystrokes.PNG)
 
