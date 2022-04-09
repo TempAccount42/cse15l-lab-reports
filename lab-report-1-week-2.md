@@ -39,7 +39,7 @@
 - (Make sure to replace the parts above with your key path and your actual username.
 - Once you do this, you can easily log in without using typing your password each time.
 
-![SSH login using key](sshkeygen.PNG)
+![SSH login using key](sshkeygen.png)
 
 # Optimize Remote Running
 - Once you have this down, try using the commands you got in "Try some Commands" to speed up your progress.
