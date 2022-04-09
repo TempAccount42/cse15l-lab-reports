@@ -30,4 +30,4 @@ Steps:
 Here is a code block.```
 
 Also, here's a cat.
-![Cat](https://i.guim.co.uk/img/media/26392d05302e02f7bf4eb143bb84c8097d09144b/446_167_3683_2210/master/3683.jpg)
+![Cat](https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg)
