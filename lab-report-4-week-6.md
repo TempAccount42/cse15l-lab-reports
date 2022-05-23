@@ -18,9 +18,13 @@ Here's the implementation of my test.
 
 ![Test Snippet 1](testSnippet1.PNG)
 
-The test did not succeed. Here is the failure message from JUnit.
+My test did not succeed. Here is the failure message from JUnit.
 
 ![Snippet 1 Failure](snippet1Failure.PNG)
+
+Shresthhooda's test did not succeed. Here is the failure message from JUnit.
+
+![Snippet 1 Failure Shresthhooda](snippet1Failure2.PNG)
 
 I think it would be difficult to check for backticks with my code. I would likely have to implement a function to check for matching pairs and use it for backticks, which I imagine would take more than ten lines of code.
 
@@ -33,6 +37,10 @@ The test did not succeed. Here is the failure message from JUnit.
 
 ![Snippet 2 Failure](snippet2Failure.PNG)
 
+Shresthhooda's test did not succeed. Here is the failure message from JUnit.
+
+![Snippet 2 Failure Shresthhooda](snippet2Failure2.PNG)
+
 For this, I might be able to do it within 10 lines of code. I would simply have to check for parentheses being within the output, and make sure to parse carefully to avoid it.
 
 ## Snippet 3
@@ -44,4 +52,8 @@ The test did not succeed. Here is the failure message from JUnit.
 
 ![Snippet 3 Failure](snippet3Failure.PNG)
 
-This shouldn't be too bad. If I check for linebreak characters `\n` in the message name, I would easily be able to determine valid and invalid hyperlinks.
+Shresthhooda's test did not succeed. In fact, an infinite while loop occured, so there was no result from JUnit.
+
+![Snippet 3 Failure Shresthhooda](snippet3Failure2.PNG)
+
+For my code, this shouldn't be too bad. If I check for linebreak characters `\n` in the message name, I would easily be able to determine valid and invalid hyperlinks.
