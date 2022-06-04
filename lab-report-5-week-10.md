@@ -30,6 +30,6 @@ The official output appears to be correct\* and my implemenation seems to have f
 \* Though if we look at the official code, it is in fact incorrect in implementation — it fails to report the link because it includes a space, not because it uses ``&quot;``.
 
 Here is the area where my implementation needs to be fixed.
-[!Bugged Area for 41.md](Fix41.PNG)
+![Bugged Area for 41.md](Fix41.PNG)
 
 That's all for the lab! Thanks for a great year.
